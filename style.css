@@ -1,5 +1,15 @@
-.container {
+.outside {
   width: 500px;
-  height: 500px;
+  height: 600px;
   border: 1px solid black;
+}
+
+.inside {
+  height: 150px;
+  border: 1px solid black;
+}
+
+button {
+  background-color: transparent;
+  border: none;
 }
